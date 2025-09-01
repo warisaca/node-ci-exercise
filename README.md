@@ -1,1 +1,1 @@
-# exercise-1-ci
+# node-ci-exercise
