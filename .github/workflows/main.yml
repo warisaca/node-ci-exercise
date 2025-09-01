@@ -22,7 +22,7 @@ jobs:
           node-version: '18'
       
       - name: Run a Hello World actions
-        uses: actions/hello-world-dicker-action@v1
+        uses: actions/hello-world-docker-action@v1
 
       - name: Install dependencies
         run: npm install
