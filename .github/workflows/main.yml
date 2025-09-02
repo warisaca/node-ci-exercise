@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-      - name: Install depencies
+      - name: Install dependencies
         uses: npm install
       - name: Run ESLint
         uses: npm run lint
